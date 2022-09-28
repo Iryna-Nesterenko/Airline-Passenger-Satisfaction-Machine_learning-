@@ -3,7 +3,7 @@
 ## Members of the group 
 1. <a href="https://github.com/Iryna-Nesterenko">Iryna Nesterenko</a>
 
-## Objectives 
+## Objective
 
  - I chose to do a Machine learning and BI Project with Airline Passenger Satisfaction data. The main goal of this project is to give accurate predictions for Airline companies to understand which features they need to improve for getting satisfied passengers and for Airline users to what they need to pay attention for comfortable airline travel. 
  
